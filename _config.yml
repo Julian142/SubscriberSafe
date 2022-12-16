@@ -21,9 +21,7 @@
 title: SubscriberSafe
 email: Julian0s@connect.hku.hk
 description: >- # this means to ignore newlines until "baseurl:"
-  SubscriberSafe provides legal information for those involved in the subscription-based content industry. We are not aware of your exact situation or needs.
-  
-  This deliverable constitutes student research as part of coursework for LITE Lab@HKU and nothing contained should be construed nor relied upon as legal advice by HKU nor its students nor instructors.
+  SubscriberSafe provides legal information for those involved in the subscription-based content industry. We are not aware of your exact situation or needs. This deliverable constitutes student research as part of coursework for LITE Lab@HKU and nothing contained should be construed nor relied upon as legal advice by HKU nor its students nor instructors.
 baseurl: "/SubscriberSafe" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Julian142
