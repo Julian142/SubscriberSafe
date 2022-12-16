@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Tax Law for Content Creators"
+date:   2022-12-15 18:35:18 +0800
+categories: legal info
+author: Richard M
+---
+
+Tax law is critical to understand for content creators if they hope to operate a financially viable business. As the trade of a content creator can definitionally sit awkwardly along many complex lines when it comes to tax, it is critical for prospective creators to understand the relative advantages and disadvantages the IRO affords different taxable structures according to the content creators financial bookkeeping.
+
+Our aim is to provide each individual content creator with easily digestible tax information to save them costs. The starting point to note is that tax advantages are greatest for content creators wishing to file as a Limited Liability Company. This is especially critical for new creators who do not incur a net profit, or in legal lingo, who can construct a balance sheet which accurately and fairly construes their financial information to represent a net loss. We will now take the creator through the steps as to how they can construct a tax balance sheet to leverage their business expenditures, and incomes to their favour.
+
+# Tax Expenditure for LLC
+
+## Part IV of the Inland Revenue Ordinance (Cap 112)
+- Subject to the provisions of this Ordinance, profits tax shall be charged for each year of assessment at the standard rate on every person carrying on a trade, profession or business in Hong Kong in respect of his assessable profits arising in or derived from Hong Kong for that year from such trade, profession or business (excluding profits arising from the sale of capital assets) as ascertained in accordance with this Part. 
+
+## Definitions
+- ‘Year of assessment’ - s2(1) 1 April to 31 March
+‘Standard rate’ - this means the rate specified in Schedule 1 to the IRO. (15%). Schedule 8 sets out the special profits tax rate payable by corporations. (since 2008/9 - 16.5%
+- ‘Profits arising in or derived from Hong Kong’  - territorial. Critical because it raises the fundamental question of the source of a profit. Only profits sourced or deemed to be sourced in Hong Kong are subject to profits tax. S14 states that the trade or business must be carried on in Hong Kong, and that profits must be from such trade profession or business.
+
+Thus, a content creator can create an LLC with the business/trade of his/her speciality and pay only such tax rate defined by the IRO. Keep in mind, this is only if the LLC records a profit, or if their net income exceeds their net expenditures. In the following section, we broaden the colloquially understood concept of net expenditures specifically for content creators with the aim of providing cost saving insights. In other words, how can you use your expenditures to make yourself money?
+
+## Profits Tax Computation ( II )
+This is the Main Deduction Provision
+
+### What is deductible from chargeable profits?
+
+Section 16
+- All outgoings and expenses incurred to the extent of producing chargeable profits for any period - 
+- What is implied is some business necessity, or some trade need
+- S70 (1) prohibits deductions against certain expenditures.
+
+Thus, the creator is advised on how to deduct taxes from his/her balance sheet. Equipment, microphones, cameras, etc. are all deductible expenses incurred in the production of profits which should be included while the creator maintains financial bookkeeping. 
+
+## Depreciation Allowances
+One can claim a deduction if they own an asset they claim depreciates. The criterion for assessing whether an asset depreciates can be found under the following:
+General provisions + inclusions/exclusions: ss16 & 17 -
+Is it under ss16?
+Is it knocked out under ss17?
+Is it then saved under 16A-16L?
+
+## Losses of an individual
+Losses can be carried forward indefinitely
+This is regardless of the nature of the activity (for a company)
+For non-companies - it must be for the same trade or business (Betley or Stokes) its got to be the same trade or business
+- Here we see that if the creator does not make a profit, and instead makes a loss, he/she can carry those losses into the next year, and so on. This will effectively lower his/her tax rate to nil until profits are made. 
+
+Through a simple three part strategy, we hope to afford critical information on the sophisticated tax structures in Hong Kong. We can provide detailed and specialist assistance if a content creator earns income as an employee, or in a partnership as well upon request.
+
+
+
+
